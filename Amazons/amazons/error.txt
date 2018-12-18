@@ -1,0 +1,4 @@
+1. My game does not end when the turn's opponent no longer has moves. Instead it continues to try and
+run the same move over and over again. When I run my main method and then type "auto white" is when this happens.
+2. I believe the problem is that my _winner is not being updated correctly but I have debugged
+and manipulated it so many different ways.

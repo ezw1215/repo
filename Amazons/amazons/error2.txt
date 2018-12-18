@@ -1,0 +1,4 @@
+1. My AI seems to output correct values for the beginning but then it begins to output odd values halfway
+through. I have debugged my legal moeves iterator and AI find moves over and over again but cannot seem to
+find out how my moves would just fall apart after halfway or so.
+2. This error happens when I run main and call auto white.
